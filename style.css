@@ -1,0 +1,217 @@
+*
+{
+	margin:0px;
+	padding:0px;
+	
+}
+body
+{
+	background:#ffffcc;
+	font-family:Arial, Helvetica;
+}
+ul
+{
+	list-style:none;
+}
+a
+{
+	text-decoration:none;
+}
+.cistac{
+	clear:both;
+}
+#omot
+{
+	width:940px;
+	margin:0px auto;
+}
+#zaglavlje
+{
+	width:940px;
+	height:105px;
+	
+}
+#logo{
+	margin-top:20px;
+	margin-left:30px;
+	height:80px;
+	
+}
+#logovanje{
+	float:right;
+	line-height:25px;
+	margin-bottom:20px;
+}
+.tekstPolje{
+	border:1px solid silver;
+	height:24px;
+	width:182px;
+}
+.dugme{
+	border:none;
+	background:black;
+	color:yellow;
+	height:25px;
+	
+	
+}
+
+#navigacija
+{
+	width:940px;
+	height:55px;
+	background:black;
+}
+#navigacija ul
+{
+	margin-left:30px;
+	padding-top:15px;
+}
+#navigacija li
+{
+	display:inline;
+}
+
+#navigacija ul li a:hover{
+	
+	color:yellow;
+}
+
+#navigacija a
+{
+	color:white;
+	text-transform:uppercase;
+	text-align:center;
+	padding-right:50px;
+}
+
+#slika
+{	
+	width:940px;
+	height:588px;
+	background:url(img/slika1.jpg);
+}
+#omot_sredina
+{	
+	margin-top:20px;
+}
+#leva_kolona
+{
+	width:250px;
+	float:left;
+}
+.levi_blok
+{
+	width:240px;
+	margin-bottom:20px;
+}
+.levi_blok h2
+{
+	color:black;
+	font-size:20px;
+	margin-bottom:20px;
+}
+
+.levi_blok li
+{
+	border-bottom:1px solid #86acac;
+	padding:5px;
+}
+.levi_blok a
+{
+	color:blue;
+}
+#desna_kolona
+{
+	width:630px;
+	float:right;
+}
+#desni_blok
+{
+	margin-bottom:20px;
+	padding-bottom:40px;
+}
+#desni_blok h1
+{
+	width:98%;
+	color:black;
+	padding-left:10px;
+	margin-bottom:20px;
+	border-bottom:1px solid #86acac;
+}
+#desni_blok p
+{	padding-top: 20px;
+    padding-bottom: 20px;
+	text-align:justify;
+	line-height:30px;
+}
+#futer
+{
+	background:black;
+	text-align:center;
+	width:100%;
+	height:50px;
+}
+#futer img
+{	
+	padding-top:10px;
+}
+
+/* Galerija */
+
+#desni_blok img
+{	width:310px;
+	height:310px;
+	margin-right:1.5px;
+}
+
+
+/* Registracija */
+
+#desni_blok input
+{
+	margin-bottom:10px;
+}
+#desni_blok form
+{
+	text-align:center;
+}
+
+/* Kontakt */
+
+#poruka
+{
+	border:1px solid silver;
+	height:70px;
+	width:182px;
+	margin-bottom:10px;
+}
+
+/* O Autoru */
+
+#tekst_desno
+{	
+	margin-bottom:20px;
+	padding-bottom:40px;
+}
+#tekst_desno h1
+{
+	width:98%;
+	color:black;
+	padding-left:10px;
+	margin-bottom:20px;
+	border-bottom:1px solid #86acac;
+}
+#tekst_desno p
+{	padding-top: 20px;
+    padding-bottom: 20px;
+	text-align:justify;
+	line-height:30px;
+}
+
+
+
+
+
+
+
